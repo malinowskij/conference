@@ -1,9 +1,9 @@
-package controller;
+package com.malinowski.controller;
 
-import model.Conference;
+import com.malinowski.model.Conference;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import repository.ConferenceRepository;
+import com.malinowski.repository.ConferenceRepository;
 
 import java.util.List;
 

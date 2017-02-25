@@ -1,6 +1,6 @@
-package repository;
+package com.malinowski.repository;
 
-import model.Conference;
+import com.malinowski.model.Conference;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
